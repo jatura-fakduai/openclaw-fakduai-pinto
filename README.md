@@ -1,5 +1,8 @@
 # OpenClaw + Pinto Docker
 
+<img width="1672" alt="image" src="https://github.com/user-attachments/assets/61982e72-ea06-4b0e-8a99-20631efc8506" />
+
+
 This project builds an OpenClaw Docker image with the Pinto channel plugin included.
 
 It also includes common Linux libraries needed by Playwright/browser agents.
