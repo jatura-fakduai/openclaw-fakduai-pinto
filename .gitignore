@@ -9,3 +9,5 @@ node_modules/
 *.log
 .DS_Store
 
+# Custome
+docker-compose.hostinger.yml

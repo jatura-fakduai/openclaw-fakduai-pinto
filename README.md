@@ -94,6 +94,12 @@ Webhook: https://something-random.trycloudflare.com/plugins/pinto/webhook
 
 Do not run `down` for Quick Tunnel unless you are okay with getting a new URL.
 
+Config model
+
+```bash
+docker compose run --rm openclaw-cli configure --section model
+```
+
 ## 5. Use Cloudflare With Your Domain
 
 This is the recommended long-term setup.
